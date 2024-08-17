@@ -1,0 +1,58 @@
+﻿@using Restaurant.ViewModels
+@model BookingVM;
+<!-- Book A Table Section -->
+  <section id="book-a-table" class="book-a-table section">
+
+            <!-- Section Title -->
+            <div class="container section-title" data-aos="fade-up">
+                <h2>Book A Table</h2>
+                <p><span>Book Your</span> <span class="description-title">Stay With Us<br></span></p>
+            </div><!-- End Section Title -->
+
+            <div class="container">
+
+                <div class="row g-0" data-aos="fade-up" data-aos-delay="100">
+
+                    <div class="col-lg-4 reservation-img" style="background-image: url(~/assets/img/reservation.jpg);"></div>
+
+                    <div class="col-lg-8 d-flex align-items-center reservation-form-bg" data-aos="fade-up" data-aos-delay="200">
+                <form asp-action="BookTable" asp-controller="Booking" method="post"  >
+                            <div class="row gy-4">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                                <div class="col-lg-4 col-md-6">
+                            <input type="date" asp-for="BookDate" value="@DateTime.Now" class="form-control ms-lg-4" id="date" placeholder="Date" required="">
+                                    <span asp-validation-for="BookDate" class="text-danger"></span>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                            <input type="time" asp-for="BookTime" id="time" class="ms-lg-3 form-control" placeholder="Time" required="">
+                                    <span asp-validation-for="BookTime" class="text-danger"></span>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <input type="number" class="form-control" asp-for="NumOfPersons" id="people" placeholder="# of people" required="" value="">
+                                    <span asp-validation-for="NumOfPersons" class="text-danger"></span>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                            <select type="number" class="form-control ms-lg-4" asp-for="TableNum" asp-items="@Model.Tables" id="people" placeholder="# of people" required="">
+                                        <option>choose a table..</option>
+                                    </select>
+                                    <span asp-validation-for="TableNum" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group mt-3">
+                        <textarea class="form-control ms-lg-4" asp-for="Message" rows="5" placeholder="Message"></textarea>
+                            </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Book" class="btn ms-lg-5 mt-5 text-light" style="background-color:#ce1212" />
+                    </div>
+                        </form>
+                        <p>@ViewBag.booked</p>
+                    </div><!-- End Reservation Form -->
+
+                </div>
+
+            </div>
+
+        </section><!-- /Book A Table Section -->

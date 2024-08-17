@@ -1,0 +1,42 @@
+﻿@model Restaurant.ViewModels.LoginVM
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1 class="d-flex justify-content-center ">Login</h1>
+
+<hr />
+<div class="row d-flex justify-content-center  ">
+    <div class="col-md-4">
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group mb-5 mt-5">
+                <div class="col-md-6 ">
+                    <input type="email" class="form-control" asp-for="Email" placeholder="Your Email" required="">
+                </div>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-5">
+                <input asp-for="Password" class="form-control" placeholder="Your Password" required="" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check mb-5">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="RememberMe" /> @Html.DisplayNameFor(model => model.RememberMe)
+                </label>
+            </div>
+            <div class="form-group mb-5">
+                <input type="submit" style="background-color:#ce1212" value="Login" class="btn text-light" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="d-flex justify-content-center mb-3">
+    <a asp-action="index" asp-controller="Main">Back to Home Page</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

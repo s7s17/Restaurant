@@ -1,0 +1,56 @@
+﻿@model Restaurant.ViewModels.RegistrationVM
+
+@{
+    ViewData["Title"] = "Regestration";
+
+}
+
+<h1 class="d-flex justify-content-center ">Regestration</h1>
+
+<hr />
+<div class="row d-flex justify-content-center">
+    <div class="col-md-4">
+        <form asp-action="Regestration">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group mb-3">
+                <input asp-for="UserName" class="form-control" placeholder="User Password" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <input asp-for="Password" class="form-control" placeholder="Your Password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <input asp-for="ConfirmPassword" class="form-control" placeholder="Confirm Your Password" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <input asp-for="Email" class="form-control" placeholder="Your Email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <input asp-for="PhoneNumber" class="form-control" placeholder="Your phone Number" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <input asp-for="Address" class="form-control" placeholder="Your Address" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <input asp-for="Age" class="form-control" placeholder="Your Age" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>           
+            <div class="form-group mb-3">
+                <input type="submit" value="Register" class="btn text-light" style="background-color:#ce1212" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="d-flex justify-content-center mb-3">
+    <a asp-action="index" asp-controller="Main">Back to Home Page</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

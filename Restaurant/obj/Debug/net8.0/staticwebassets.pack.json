@@ -1,0 +1,745 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restaurant.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Restaurant.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\chefs\\chefs-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chefs\\chefs-1.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\chefs\\chefs-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chefs\\chefs-2.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\chefs\\chefs-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chefs\\chefs-3.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\events-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\events-1.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\events-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\events-2.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\events-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\events-3.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\events-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\events-4.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\hero-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-img.png"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\menu\\menu-item-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\menu-item-1.png"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\menu\\menu-item-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\menu-item-2.png"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\menu\\menu-item-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\menu-item-3.png"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\menu\\menu-item-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\menu-item-4.png"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\menu\\menu-item-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\menu-item-5.png"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\menu\\menu-item-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\menu-item-6.png"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\reservation.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\reservation.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\stats-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\stats-bg.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\team-shape.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-shape.svg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\google-map.js",
+      "PackagePath": "staticwebassets\\js\\google-map.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\jquery.mb.YTPlayer.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mb.YTPlayer.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\range.js",
+      "PackagePath": "staticwebassets\\js\\range.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollax.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\ITI\\TASKS\\Restaurant\\Restaurant\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Restaurant.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Restaurant.props",
+      "PackagePath": "build\\Restaurant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Restaurant.props",
+      "PackagePath": "buildMultiTargeting\\Restaurant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Restaurant.props",
+      "PackagePath": "buildTransitive\\Restaurant.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

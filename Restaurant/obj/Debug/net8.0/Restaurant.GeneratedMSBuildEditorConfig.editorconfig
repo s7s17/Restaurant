@@ -1,0 +1,147 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Restaurant
+build_property.RootNamespace = Restaurant
+build_property.ProjectDir = E:\ITI\TASKS\Restaurant\Restaurant\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\ITI\TASKS\Restaurant\Restaurant
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Booking/BookTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29rVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Chef/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Chef/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Chef/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Chef/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Main/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Main/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Main/Event.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxFdmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Main/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/MenuCat/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUNhdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/MenuCat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUNhdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/MenuItem/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUl0ZW1cQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/MenuItem/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUl0ZW1cSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/MenuItem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUl0ZW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Role/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Shared/_myLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9teUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Table/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Table/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Table/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/User/AddUserToRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGRVc2VyVG9Sb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/User/Regestration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdlc3RyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/TASKS/Restaurant/Restaurant/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dfffm0vbnq
